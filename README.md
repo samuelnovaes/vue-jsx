@@ -2,6 +2,7 @@ Open a terminal and type this commands
 
 ```bash
 git clone https://github.com/samuelnovaes/vue-jsx.git
+cd vue-jsx
 npm install
 npm start
 ```
