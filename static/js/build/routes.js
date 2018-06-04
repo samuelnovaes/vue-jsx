@@ -1,1 +1,0 @@
-define(['exports','./pages/index'],function(a,b){'use strict';Object.defineProperty(a,'__esModule',{value:!0});var c=function(a){return a&&a.__esModule?a:{default:a}}(b);a.default=[{path:'*',component:NotFound},{path:'/',component:c.default}]});
