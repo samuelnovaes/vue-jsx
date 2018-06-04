@@ -10,6 +10,6 @@ Open the `static/index.html` file in your browser.
 
 Open the `vue` directory in your favorite editor and start coding.
 
-You can use JSX and ES6 módules!
+You can use JSX and ES6 modules!
 
 You can use the `static` directory in production.
