@@ -1,0 +1,9 @@
+{
+	"presets": [
+		"minify"
+	],
+	"plugins": [
+		"transform-es2015-modules-amd",
+		"transform-vue-jsx"
+	]
+}
