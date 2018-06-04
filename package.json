@@ -1,0 +1,16 @@
+{
+  "name": "vue-jsx",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "babel vue --watch --out-dir static/js/build"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
+    "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "babel-preset-minify": "^0.4.3"
+  }
+}

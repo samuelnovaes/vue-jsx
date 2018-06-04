@@ -1,0 +1,1 @@
+define(['./App'],function(a){'use strict';var b=function(a){return a&&a.__esModule?a:{default:a}}(a);new Vue({el:'#app',render:a=>a(b.default)})});
