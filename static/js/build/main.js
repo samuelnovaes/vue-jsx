@@ -1,1 +1,18 @@
-define(['./App'],function(a){'use strict';var b=function(a){return a&&a.__esModule?a:{default:a}}(a);new Vue({el:'#app',render:a=>a(b.default)})});
+define(['./App'], function (_App) {
+	'use strict';
+
+	var _App2 = _interopRequireDefault(_App);
+
+	function _interopRequireDefault(obj) {
+		return obj && obj.__esModule ? obj : {
+			default: obj
+		};
+	}
+
+	new Vue({
+		el: '#app',
+		render: function render(h) {
+			return h(_App2.default);
+		}
+	});
+});
