@@ -17,4 +17,4 @@ Vue-JSX will compile your components on every change.
 
 You can use the `static` directory in production.
 
-See [Render Functions & JSX in Vue.js](https://vuejs.org/v2/guide/render-function.html)
+See [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx)
