@@ -1,8 +1,8 @@
 Open a terminal and type this commands
 
 ```bash
-git clone https://github.com/samuelnovaes/vue-jsx.git
-cd vue-jsx
+git clone https://github.com/samuelnovaes/vue-jsx.git myapp
+cd myapp
 npm install
 npm start
 ```
